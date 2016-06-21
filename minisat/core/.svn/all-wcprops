@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/marcu-antichain/!svn/ver/9/minisat/core
+END
+Solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/marcu-antichain/!svn/ver/9/minisat/core/Solver.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/marcu-antichain/!svn/ver/9/minisat/core/test.c
+END
+t.exe
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/marcu-antichain/!svn/ver/9/minisat/core/t.exe
+END
+Main.C
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/marcu-antichain/!svn/ver/9/minisat/core/Main.C
+END
+SolverTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/marcu-antichain/!svn/ver/9/minisat/core/SolverTypes.h
+END
+depend.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/marcu-antichain/!svn/ver/9/minisat/core/depend.mk
+END
+a.out
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/marcu-antichain/!svn/ver/9/minisat/core/a.out
+END
+Solver.C
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/marcu-antichain/!svn/ver/9/minisat/core/Solver.C
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/marcu-antichain/!svn/ver/9/minisat/core/makefile
+END

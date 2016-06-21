@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/marcu-antichain/!svn/ver/9/minisat/mtl
+END
+template.mk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/marcu-antichain/!svn/ver/9/minisat/mtl/template.mk
+END
+Heap.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/marcu-antichain/!svn/ver/9/minisat/mtl/Heap.h
+END
+Map.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/marcu-antichain/!svn/ver/9/minisat/mtl/Map.h
+END
+Vec.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/marcu-antichain/!svn/ver/9/minisat/mtl/Vec.h
+END
+BasicHeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/marcu-antichain/!svn/ver/9/minisat/mtl/BasicHeap.h
+END
+BoxedVec.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/marcu-antichain/!svn/ver/9/minisat/mtl/BoxedVec.h
+END
+Alg.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/marcu-antichain/!svn/ver/9/minisat/mtl/Alg.h
+END
+Queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/marcu-antichain/!svn/ver/9/minisat/mtl/Queue.h
+END
+Sort.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/marcu-antichain/!svn/ver/9/minisat/mtl/Sort.h
+END

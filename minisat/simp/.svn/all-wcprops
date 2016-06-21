@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/marcu-antichain/!svn/ver/9/minisat/simp
+END
+SimpSolver.C
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/marcu-antichain/!svn/ver/9/minisat/simp/SimpSolver.C
+END
+minisat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/marcu-antichain/!svn/ver/9/minisat/simp/minisat
+END
+Main.C
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/marcu-antichain/!svn/ver/9/minisat/simp/Main.C
+END
+depend.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/marcu-antichain/!svn/ver/9/minisat/simp/depend.mk
+END
+SimpSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/marcu-antichain/!svn/ver/9/minisat/simp/SimpSolver.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/marcu-antichain/!svn/ver/9/minisat/simp/Makefile
+END

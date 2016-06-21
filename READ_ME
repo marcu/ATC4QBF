@@ -1,0 +1,2 @@
+1st step -> make antichain.dylib
+2nd step -> python resolv.py your_qbf_formula.qdimacs

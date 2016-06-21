@@ -1,0 +1,89 @@
+8
+
+dir
+9
+http://svn2.xp-dev.com/svn/marcu-antichain/minisat/simp
+http://svn2.xp-dev.com/svn/marcu-antichain
+
+
+
+2009-11-26T13:09:27.729651Z
+9
+marcu
+
+
+svn:special svn:externals svn:needs-lock
+
+minisat
+file
+
+
+
+
+2009-11-18T10:42:48.000000Z
+eb6bfaa8cff9dec6a35f38698efbb57a
+2009-11-26T13:09:27.729651Z
+9
+marcu
+has-props
+
+SimpSolver.C
+file
+
+
+
+
+2007-07-20T23:07:18.000000Z
+f490b85c765a54fad20cee18a403d925
+2009-11-26T13:09:27.729651Z
+9
+marcu
+
+depend.mk
+file
+
+
+
+
+2009-11-18T10:42:45.000000Z
+3c16cc6af923a1420734780df76c2226
+2009-11-26T13:09:27.729651Z
+9
+marcu
+
+Main.C
+file
+
+
+
+
+2006-11-10T21:59:10.000000Z
+e268d187415121fda3a8a74f26222678
+2009-11-26T13:09:27.729651Z
+9
+marcu
+
+SimpSolver.h
+file
+
+
+
+
+2006-11-10T21:54:30.000000Z
+332e1cd88e1ebb0563c358b47ba8f18c
+2009-11-26T13:09:27.729651Z
+9
+marcu
+
+Makefile
+file
+
+
+
+
+2006-10-02T13:09:42.000000Z
+fd7e7e84fc2aae5280e5910ec3418962
+2009-11-26T13:09:27.729651Z
+9
+marcu
+
